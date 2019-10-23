@@ -1,0 +1,7 @@
+C:\Users\AlexPaulo\Desktop\etec\PA\Aula 8 - Arrays\FirstArray\FirstArray\bin\Debug\FirstArray.exe.config
+C:\Users\AlexPaulo\Desktop\etec\PA\Aula 8 - Arrays\FirstArray\FirstArray\bin\Debug\FirstArray.exe
+C:\Users\AlexPaulo\Desktop\etec\PA\Aula 8 - Arrays\FirstArray\FirstArray\bin\Debug\FirstArray.pdb
+C:\Users\AlexPaulo\Desktop\etec\PA\Aula 8 - Arrays\FirstArray\FirstArray\obj\Debug\FirstArray.csprojAssemblyReference.cache
+C:\Users\AlexPaulo\Desktop\etec\PA\Aula 8 - Arrays\FirstArray\FirstArray\obj\Debug\FirstArray.csproj.CoreCompileInputs.cache
+C:\Users\AlexPaulo\Desktop\etec\PA\Aula 8 - Arrays\FirstArray\FirstArray\obj\Debug\FirstArray.exe
+C:\Users\AlexPaulo\Desktop\etec\PA\Aula 8 - Arrays\FirstArray\FirstArray\obj\Debug\FirstArray.pdb
